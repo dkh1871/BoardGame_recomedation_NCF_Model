@@ -1,4 +1,4 @@
-# NCF like Model created from Boardgame Geek Data
+# MLP Model created from Boardgame Geek Data
 
 ## Description  
 This project explores the creation of a recommendation model using a neural collaborative filtering (NCF) architecture from users' reviews of board games. This project focuses on practicing deep learning with PyTorch.  

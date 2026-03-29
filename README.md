@@ -1,7 +1,11 @@
 # NCF Model created from Boardgame Geek Data
 
 ## Description  
-This project explores the creation of a recommendation model using neural collaborative filtering(NCF) from users' reviews of board games. This project focused on practicing deep learning with PyTorch.
+This project explores the creation of a recommendation model using a neural collaborative filtering (NCF) architecture from users' reviews of board games. This project focuses on practicing deep learning with PyTorch.  
+
+NCF's true goal is to produce recommendations from implicit data, not a firm rating; however, we can still leverage the idea of embedding users and items from its design to predict what a user is likely to rate a game.  
+
+
 
 ## Data
 [Data Source](https://www.kaggle.com/datasets/jvanelteren/boardgamegeek-reviews)  
